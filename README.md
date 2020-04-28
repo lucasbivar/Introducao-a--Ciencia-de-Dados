@@ -4,8 +4,6 @@
 </p>
   <img src="https://cdn.iconscout.com/icon/free/png-512/data-science-46-1170621.png" float="center"/>
 </h1> 
- 
-<br/>
 
 ## Descrição:
 Esse repositório contém as aulas e as minhas resoluções dos desafios propostos durante a #QuarentenaDados promovido pela Alura no final de cada aula.
