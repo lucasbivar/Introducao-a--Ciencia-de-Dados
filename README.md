@@ -2,7 +2,7 @@
 <p align="center">
   <strong align="center">Introdução à Ciência de Dados</strong>
 </p>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/data-science-46-1170621.png" float="center" style="width:180; height:85px;/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/data-science-46-1170621.png" float="center"/>
 </h1> 
  
 <br/>
