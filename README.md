@@ -2,8 +2,7 @@
 <p align="center">
   <strong align="center">Introdução à Ciência de Dados</strong>
 </p>
-  [![Made with Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-  <img src="https://cdn.iconscout.com/icon/free/png-512/data-science-46-1170621.png" float="center"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/data-science-46-1170621.png" float="center" style="width:180; height:85px;/>
 </h1> 
  
 <br/>
